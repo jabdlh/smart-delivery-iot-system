@@ -1,5 +1,6 @@
 
 Smart Multi-Compartment Grocery Delivery System 📦
+![Project Overview](prototypr_image.jpg)
 Project Overview
 This project is an advanced IoT Logistics Hub designed for secure, climate-controlled package delivery. It integrates an ESP32 central controller with a series of sensors and actuators to automate item handling, security, and environmental monitoring. The system is managed remotely via a dedicated Flutter/Dart mobile application.
 
