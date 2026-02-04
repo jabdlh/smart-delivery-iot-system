@@ -1,3 +1,4 @@
+
 Smart Multi-Compartment Grocery Delivery System 📦
 Project Overview
 This project is an advanced IoT Logistics Hub designed for secure, climate-controlled package delivery. It integrates an ESP32 central controller with a series of sensors and actuators to automate item handling, security, and environmental monitoring. The system is managed remotely via a dedicated Flutter/Dart mobile application.
@@ -23,6 +24,8 @@ Thermal: Resistance Heater + Digital Temperature Sensor.
 Vision & Load: Serial Camera Module + Load Cell (Weight Sensor) with HX711 Amplifier.
 
 Security: 12V Solenoid Electromagnetic Lock.
+
+Power Management: AC-DC Switch Mode Power Supply (SMPS) – Converts 220V AC (Mains) to 12V DC to power the high-load components (Motor, Heater, Locks), with a buck converter for the 3.3V/5V ESP32 logic.
 
 Future Enhancements
 Local Interface: Integrating an I2C 16x2 LCD Display to provide real-time status updates (e.g., "Temperature OK", "Package Detected") directly on the unit.
