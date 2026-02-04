@@ -19,6 +19,11 @@ Enhanced Security: Features an Electromagnetic Lock for high-strength physical s
 
 Real-Time Remote Access: Full telemetry and control provided by a Mobile App built with Flutter, communicating over WiFi/MQTT.
 
+## **Lead Responsibilities**
+As the **Technical Project Lead**, I oversaw the end-to-end development of the system, with a primary focus on system architecture and hardware-software integration:
+* **System Architecture:** Defined the communication protocol (MQTT/WiFi) between the ESP32 and the Flutter mobile app.
+* **Integration Oversight:** Managed the interfacing of 12V high-power actuators (Motor/Locks) with 3.3V logic microcontrollers.
+* **Technical Quality Control:** Performed all final code reviews, debugging of the sensor fusion logic.
 Hardware Architecture (BOM)
 Microcontroller: ESP32 - The "Brain" handling all wireless processing and sensor logic.
 
