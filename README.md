@@ -7,7 +7,7 @@
 ## **image of the prototype**
 
 
-![Project Overview](prototype_image.png)
+![image of the prototype](prototype_image.png)
 
 
 ## **Project Overview**
